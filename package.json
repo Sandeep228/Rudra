@@ -20,7 +20,6 @@
     "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
     "next": "14.1.0",
-    "next-apollo": "^5.0.8",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.0.1",
